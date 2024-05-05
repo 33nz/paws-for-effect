@@ -11,8 +11,11 @@ function App() {
       />
       <Subtitles text="Canines using super-canine abilities for social good." />
       <Dog name="Desdemona" breed="Bulldog" superpower="Heat vision" />
-      <Dog name="Spot" breed="Fox terrier" superpower="Heat vision" />
-      <Dog name="Butch" breed="Cocker spaniel" superpower="Sense of smell" />
+      <img src="/images/bulldog.png" alt="A bulldog" />
+      <Dog name="Spot" breed="hound" superpower="Heat vision" />
+      <img src="/images/hound.png" alt="a hound"></img>
+      <Dog name="Butch" breed="dachshund" superpower="Sense of smell" />
+      <img src="/images/dachshund.png" alt="a dachshund" />
     </div>
   )
 }
