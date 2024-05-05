@@ -158,6 +158,7 @@ Let's try another component.
   <div className="container">
     <img className="spinner" alt="a spinning paw-print" src="/images/paw.png" />
     <Dog name="Desdemona" breed="Bulldog" superpower="Heat vision" />
+    
   </div>
   ```
 
